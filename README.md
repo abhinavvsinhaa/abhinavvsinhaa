@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Abhinav Sinha 👋</h1>
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Web+Developer;App+Developer;DevOps;Competitive+Programmer;Computer+Science+Undergrad"></a>
-  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Full+Stack+Web+Developer;App+Developer;DevOps;Competitive+Programmer;Computer+Science+Undergrad)](https://git.io/typing-svg)"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Full+Stack+Web+Developer;App+Developer;DevOps;Competitive+Programmer;Computer+Science+Undergrad"/>
 </p>
 <p align="left"> <a href="https://twitter.com/abhinavsinha__" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavsinha__?logo=twitter&style=for-the-badge" alt="abhinavsinha__" /></a> </p>
 
