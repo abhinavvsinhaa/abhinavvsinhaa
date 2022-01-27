@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav</h1>
+<h1 align="center">Hi, I'm Abhinav Sinha 👋</h1>
 <h3 align="center">A full stack web developer, and a competitive coder.</h3>
 <p align="left"> <a href="https://twitter.com/abhinavsinha__" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavsinha__?logo=twitter&style=for-the-badge" alt="abhinavsinha__" /></a> </p>
 
